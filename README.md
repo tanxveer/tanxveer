@@ -8,7 +8,7 @@
 <table align = "center">
   <td>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanxveer&theme=tokyonight&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanxveer&theme=tokyonight&layout=compact&hide_border=true" />
 </a>
   </td>
 </table>
