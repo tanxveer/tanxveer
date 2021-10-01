@@ -5,8 +5,11 @@
 <a href="https://git.io/streak-stats">
   <img width="48%" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tanxveer&theme=tokyonight&hide_border=true" />
 </a>
+<table align = "center">
+  <td>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanxveer&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanxveer&layout=compact" />
 </a>
-
+  <td>
+</table>
 
