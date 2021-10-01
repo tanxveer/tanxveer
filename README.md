@@ -1,5 +1,10 @@
 ### Hi there 👋
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanxveer&show_icons=true&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://git.io/streak-stats">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tanxveer&theme=tokyonight&hide_border=true" />
+</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanxveer&show_icons=true&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tanxveer&theme=tokyonight&layout=compact&hide_border=true)](https://git.io/streak-stats)
 
 
