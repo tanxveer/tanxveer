@@ -12,3 +12,5 @@
 </a>
   </td>
 </table>
+
+### [Counts](https://komarev.com/ghpvc/?username=tanxveer&color=blue&style=flat-square&label=Profile+Visits) ![age](https://img.shields.io/badge/age-19-blue)
