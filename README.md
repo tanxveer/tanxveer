@@ -11,10 +11,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanxveer&theme=tokyonight&layout=compact&hide_border=true" />
 </a>
   </td>
-</table>
-<p align="center">
+<td>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=tanxveer&theme=tokyonight&column=8&no-frame=true&no-bg=true">
   </a>
-</p>
+</td>
 
+</table>
