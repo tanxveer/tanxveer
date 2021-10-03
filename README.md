@@ -13,4 +13,4 @@
   </td>
 </table>
 
-### ![Counts](https://komarev.com/ghpvc/?username=tanxveer&color=blueviolet&style=flat-square&label=Profile+Visits) ![age](https://img.shields.io/badge/age-19-blue)
+### ![Counts](https://komarev.com/ghpvc/?username=tanxveer&color=blueviolet&style=flat-square&label=Profile+Visits) ![age](https://img.shields.io/badge/age-19-blueviolet)
