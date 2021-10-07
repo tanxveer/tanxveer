@@ -14,3 +14,8 @@
 </table>
 
 ### ![Counts](https://komarev.com/ghpvc/?username=tanxveer&color=blue&style=flat-square&label=Profile+Visits) ![age](https://img.shields.io/badge/age-19-blue)
+
+### Ways to reach me:
+
+<!-- [<img align="left" alt="Tanveer Singh | Telegram" width="22px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/telegram.png" />](https://www.telegram.me/HeManTSacHDevA)[<img align="left" alt="HeManTSacHDevA | Instagram" width="22px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/instagram.png" />](https://www.instagram.com/hemant_007.me)[<img align="left" alt="HeManT-SacHDevA | LinkedIn" width="22px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/linkedin.png" />](https://www.linkedin.com/in/Hemant-Sachdeva)[<img align="left" alt="HeMantSachdeva | Gmail" width="44px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/gmail.png" />](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=hemant.evolver@gmail.com)
+<br> -->
