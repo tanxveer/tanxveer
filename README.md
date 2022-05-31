@@ -17,5 +17,6 @@
 
 ### Ways to reach me:
 
-[<img align="left" alt="Tanveer | Instagram" width="37px" src="https://github.com/tanxveer/tanxveer/blob/main/assets/instagram.png" />](https://www.instagram.com/tanxveer/)[<img align="left" alt="Tanveer | LinkedIn" width="37px" src="https://github.com/tanxveer/tanxveer/blob/main/assets/linkedin.png" />](https:https://www.linkedin.com/in/tanveersingh07/)[<img align="left" alt="Tanveer | Gmail" width="37px" src="https://github.com/tanxveer/tanxveer/blob/main/assets/gmail.png" />](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=tanveersingh0710@gmail.com)
+[<img align="left" alt="Tanveer | Instagram" width="37px" src="https://github.com/tanxveer/tanxveer/blob/main/assets/instagram.png" />](https://www.instagram.com/tanxveer/)[<img align="left" alt="Tanveer | LinkedIn" width="37px" src="https://github.com/tanxveer/tanxveer/blob/main/assets/linkedin.png" />](https:https://www.linkedin.com/in/tanveersingh07/)
+[<img align="left" alt="Tanveer | Gmail" width="37px" src="https://github.com/tanxveer/tanxveer/blob/main/assets/gmail.png" />](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=tanveersingh0710@gmail.com)
 <br> 
