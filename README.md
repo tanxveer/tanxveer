@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanxveer&label=Profile%20views&color=0e75b6&style=flat" alt="tanxveer" /> <img src="https://img.shields.io/badge/age-20-blue"> </p>  
 
-- 🔭 I’m currently working on [E-Commerce app](https://github.com/tanxveer/lost_step)
+- 🔭 I’m currently working on [Password Manager](https://github.com/tanxveer/Passwrd)
 
 - 🌱 I’m currently learning **Data Structures, Flutter, Firebase ...**
 
