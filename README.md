@@ -4,7 +4,7 @@
         </samp>
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanxveer&label=Profile%20views&color=0e75b6&style=flat" alt="tanxveer" /> <img src="https://img.shields.io/badge/age-20-blue"> </p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanxveer&label=Profile%20views&color=0e75b6&style=flat" alt="tanxveer" /> <img src="https://img.shields.io/badge/age-21-blue"> </p>  
 
 - 🔭 I’m currently working on [Password Manager](https://github.com/tanxveer/Passwrd)
 
